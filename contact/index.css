@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-top: 15px;
+    overflow-x: hidden;
+    background-color: #1E2022;
+}
+.title_bar{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 75px;
+}
+.logo_name{
+    position: relative;
+    left: 30px;
+    color: #F0F5F9;
+    font-size: 1.75rem;
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.menu_items{
+    position: relative;
+    left: 30px;
+    display: flex;
+    gap: 35px;
+}
+.menu_items div a{
+    text-decoration: none;
+    font-family: roboto;
+    font-size: 16px;
+    transition: color 0.3s ease ;
+    color: #C9D6DF;
+}
+.menu_icon{
+    display: flex;
+    flex-direction: column;
+    gap: 4px; 
+    position: relative;
+    left: 42.5vw;
+}
+.menu_icon div{
+    height: 4px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: #F0F5F9;
+}
+.profile_pht{
+    height: 30px;
+    width: 30px;
+    background-image: url(/asset/image/logo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    position: relative;
+    left: 45vw;
+}
+.content{
+    position: relative;
+    top: 15px;
+}
+.image_pre{
+    width: 100vw;
+    height: 80vh;
+    background-color: #F0F5F9;
+    position: relative;
+    overflow: hidden; 
+}
