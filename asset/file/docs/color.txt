@@ -1,0 +1,16 @@
+Burgundy (#800020):
+Ivory (#FFFFF0): 
+Gold (#D4AF37): 
+Silver (#C0C0C0): 
+Charcoal (#333333): 
+Off-White (#F8F8F8):
+Platinum (#E5E4E2):
+Pearl White (#F0F0F0):
+hampagne (#F7E7CE):
+Teal (#008080): 
+Copper (#B87333): 
+Cream (#FFF5E1):
+Rose Gold (#B76E79):
+Blush Pink (#F7D1D1)
+White (#FFFFFF):
+gold #	
