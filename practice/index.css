@@ -98,6 +98,7 @@ body{
     box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.207);
 }
 .platform-card a{
+    padding: 30px;
     color: #333;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
